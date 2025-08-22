@@ -23,9 +23,8 @@
         <li>PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"/></li>
       </ul>
     </td>
-
-    <!-- Back-End -->
-    <td valign="top">
+        <!-- Back-End -->
+      <td valign="top">
       <strong>Back-End</strong>
       <ul>
         <li>Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/></li>
@@ -34,7 +33,6 @@
         <li>AWS <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30" height="30"/></li>
       </ul>
     </td>
-
     <!-- Front-End -->
     <td valign="top">
       <strong>Front-End</strong>
@@ -49,8 +47,7 @@
         <li>Figma <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/></li>
       </ul>
     </td>
-
-    <!-- Gestão -->
+     <!-- Gestão -->
     <td valign="top">
       <strong>Gestão & Versionamento</strong>
       <ul>
