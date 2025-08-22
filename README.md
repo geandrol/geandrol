@@ -21,7 +21,7 @@
         <li>Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/></li>
         <li>SQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"/></li>
         <li>PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"/></li>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+        <li>MySQL<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></li>
       </ul>
     </td>
         <!-- Back-End -->
@@ -31,7 +31,7 @@
         <li>Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/></li>
         <li>NestJS <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="30" height="30"/></li>
         <li>Spring <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"/></li>
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/>
+        <li>ASP.NET<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/></li>
         <li>AWS <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30" height="30"/></li>
       </ul>
     </td>
