@@ -1,14 +1,14 @@
-<h1 align="center">olá me chamo [Geandro]</h1>
+<h1 align="center">Olá me chamo [Geandro]</h1>
 <h3 align="center">Tech Instructor, FullStack Developer</h3>
 
-### 🌐 Connect with me:
+### 🌐 Conecte-se comigo:
 <p align="left">
 <a href="https://www.linkedin.com/in/geandro-araújo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🧰 All Languages and Tools
+### 🧰 Todas as linguagens e ferramentas com aprendizado constante:
 <table>
   <tr>
     <td valign="top">
