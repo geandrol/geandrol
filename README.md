@@ -21,6 +21,7 @@
         <li>Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/></li>
         <li>SQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"/></li>
         <li>PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"/></li>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
       </ul>
     </td>
         <!-- Back-End -->
@@ -30,6 +31,7 @@
         <li>Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/></li>
         <li>NestJS <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="30" height="30"/></li>
         <li>Spring <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"/></li>
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/>
         <li>AWS <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30" height="30"/></li>
       </ul>
     </td>
@@ -39,7 +41,6 @@
       <ul>
         <li>React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/></li>
         <li>Angular <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" height="30"/></li>
-        <li>Next.js <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30" height="30"/></li>
         <li>HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/></li>
         <li>CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/></li>
         <li>Bootstrap <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/></li>
