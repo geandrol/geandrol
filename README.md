@@ -50,7 +50,6 @@ Busco contribuir para projetos desafiadores que envolvam arquitetura escalável,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30" title="Docker"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" title="Kubernetes"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" title="Linux"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="30" height="30" title="Nginx"/>
     </td>
       <td valign="top">
       <strong>🧭 Gestão & Versionamento</strong><br/>
