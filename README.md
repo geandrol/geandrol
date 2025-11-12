@@ -18,7 +18,6 @@ Busco contribuir para projetos desafiadores que envolvam arquitetura escalável,
 
 <table>
   <tr>
-    <!-- Linguagens & Bancos -->
     <td valign="top">
       <strong>💬 Linguagens & Bancos</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" title="JavaScript"/>
@@ -28,8 +27,6 @@ Busco contribuir para projetos desafiadores que envolvam arquitetura escalável,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30" title="PostgreSQL"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL"/>
     </td>
-
-    <!-- Back-End -->
     <td valign="top">
       <strong>⚙️ Back-End</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" title="Node.js"/>
@@ -37,8 +34,6 @@ Busco contribuir para projetos desafiadores que envolvam arquitetura escalável,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30" title="Spring"/>
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="30" height="30" title="ASP.NET"/>
     </td>
-
-    <!-- Front-End -->
     <td valign="top">
       <strong>🎨 Front-End</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" title="React"/>
@@ -49,23 +44,24 @@ Busco contribuir para projetos desafiadores que envolvam arquitetura escalável,
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" title="TailwindCSS"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30" title="Figma"/>
     </td>
-
-    <!-- Cloud & Infraestrutura -->
     <td valign="top">
-      <strong>☁️ Cloud & Infraestrutura</strong><br/>
+     <strong>☁️ Cloud & Infraestrutura</strong><br/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="30" height="30" title="AWS"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="30" height="30" title="Docker"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30" title="Docker"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30" height="30" title="Kubernetes"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" title="Linux"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="30" height="30" title="Nginx"/>
     </td>
-
-    <!-- Gestão & Versionamento -->
-    <td valign="top">
+      <td valign="top">
       <strong>🧭 Gestão & Versionamento</strong><br/>
       <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="30" height="30" title="Trello"/>
       <img src="https://cdn.worldvectorlogo.com/logos/scrum-1.svg" width="30" height="30" title="Scrum"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" title="Git"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" title="GitHub"/>
     </td>
+
+
   </tr>
 </table>
+
 
