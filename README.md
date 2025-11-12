@@ -1,5 +1,6 @@
 <h1 align="center">Olá me chamo [Geandro]</h1>
 <h3 align="center">Tech Instructor, FullStack Developer</h3>
+<p>Busco contribuir para projetos desafiadores que envolvam arquitetura escalável e boas práticas de desenvolvimento.</p>
 
 ### 🌐 Conecte-se comigo:
 <p align="left">
