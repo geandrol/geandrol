@@ -6,8 +6,6 @@
   <!-- Status -->
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status"/>
   
-  [![playstation](https://img.shields.io/badge/Playstation-Games-000000?style=plastic&logo=playstation&link=www.google.com)]
-
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java"/>
