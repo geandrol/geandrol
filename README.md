@@ -31,9 +31,6 @@
   <img src="https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=for-the-badge" alt="Scrum"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" alt="Trello"/>
 
-  <!-- Missão pessoal -->
-  <img src="https://img.shields.io/badge/Impactar%20com%20Tecnologia-%E2%9C%A8-9B59B6?style=for-the-badge" alt="Impactar com Tecnologia"/>
-
 </p>
 
 
