@@ -2,6 +2,48 @@
 <h3 align="center">💻 Tech Instructor | Full Stack Developer</h3>
 
 <p align="center">
+
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status"/>
+
+  <!-- Cargo -->
+  <img src="https://img.shields.io/badge/Tech%20Instructor-%F0%9F%92%BB-blue?style=for-the-badge" alt="Tech Instructor"/>
+
+  <!-- Função -->
+  <img src="https://img.shields.io/badge/FullStack%20Developer-%F0%9F%9A%80-orange?style=for-the-badge" alt="Full Stack Developer"/>
+
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#"/>
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React"/>
+
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+
+  <!-- Cloud e Infra -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+
+  <!-- Gestão -->
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=for-the-badge" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" alt="Trello"/>
+
+  <!-- Missão pessoal -->
+  <img src="https://img.shields.io/badge/Impactar%20com%20Tecnologia-%E2%9C%A8-9B59B6?style=for-the-badge" alt="Impactar com Tecnologia"/>
+
+</p>
+
+
+<p align="center">
 Busco contribuir para projetos desafiadores que envolvam arquitetura escalável, boas práticas de desenvolvimento e impacto positivo na comunidade tech.
 </p>
 
