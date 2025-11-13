@@ -6,12 +6,6 @@
   <!-- Status -->
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status"/>
 
-  <!-- Cargo -->
-  <img src="https://img.shields.io/badge/Tech%20Instructor-%F0%9F%92%BB-blue?style=for-the-badge" alt="Tech Instructor"/>
-
-  <!-- Função -->
-  <img src="https://img.shields.io/badge/FullStack%20Developer-%F0%9F%9A%80-orange?style=for-the-badge" alt="Full Stack Developer"/>
-
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java"/>
